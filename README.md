@@ -24,11 +24,11 @@
 
 - Transforme a su forma polar:
 
-![image](https://user-images.githubusercontent.com/93900233/155158904-e030e779-748b-4fcf-9bac-fd57a02f28a3.png)
+![image](https://user-images.githubusercontent.com/93900233/155159114-c9f7c7ca-1a30-48aa-b92a-19d6107351d0.png)
 
 ![image](https://user-images.githubusercontent.com/93900233/155153694-d7f8e8d6-5ac3-4e30-95a4-1ec01ffb24c9.png)
 
-![image](https://user-images.githubusercontent.com/93900233/155153734-d658d383-e886-45ee-804f-6aa5bf946c40.png)
+![image](https://user-images.githubusercontent.com/93900233/155158904-e030e779-748b-4fcf-9bac-fd57a02f28a3.png)
 
 ![image](https://user-images.githubusercontent.com/93900233/155153767-8d97f987-4c40-4502-9612-a143845744c8.png)
 
