@@ -52,6 +52,15 @@
 
 - Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
 
+- Transforme a su forma polar:
+
+
+- Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
+
+![image](https://user-images.githubusercontent.com/93899422/155164082-8880b4aa-8822-400f-8c8b-4485a589a37a.png)
+![image](https://user-images.githubusercontent.com/93899422/155164146-6ec65e5b-16a5-4de6-bb9c-db41bd3b86b2.png)
+![image](https://user-images.githubusercontent.com/93899422/155164193-21ebe5f4-2a44-4170-bea6-8e8bce43b88a.png)
+
 # VIDEO
 
 Mil disculpas Ing. al incio del video digo que es el video del Laboratorio 8 pero en realidad es el video del Laboratorio 9 me equivoque.
