@@ -24,7 +24,7 @@
 
 - Transforme a su forma polar:
 
-![image](https://user-images.githubusercontent.com/93900233/155153652-6ea0b9a6-65b6-404b-a649-fc20ce7c30f7.png)
+![image](https://user-images.githubusercontent.com/93900233/155158904-e030e779-748b-4fcf-9bac-fd57a02f28a3.png)
 
 ![image](https://user-images.githubusercontent.com/93900233/155153694-d7f8e8d6-5ac3-4e30-95a4-1ec01ffb24c9.png)
 
