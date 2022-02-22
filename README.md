@@ -44,11 +44,9 @@
 
 ![image](https://user-images.githubusercontent.com/93900233/155153969-1b268b48-a8cb-4b37-9c1f-c51dbf675e03.png)
 
-![image](https://user-images.githubusercontent.com/93900233/155154008-4b216b1e-d096-47c3-8791-afb40c23c31b.png)
+![image](https://user-images.githubusercontent.com/93899422/155167078-95c12826-96b6-423a-b12a-04c68b47aec1.png)
 
-![image](https://user-images.githubusercontent.com/93900233/155154856-b2a2f9ac-96a4-4010-99e9-5f373c65a806.png)
-
-![image](https://user-images.githubusercontent.com/93900233/155154889-f90656a9-f9b5-4722-90d4-6a155ce49db9.png)
+![image](https://user-images.githubusercontent.com/93899422/155167120-0196947e-de4e-4154-ad62-2fd760ce1247.png)
 
 - Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
 
