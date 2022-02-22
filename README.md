@@ -24,9 +24,15 @@
 
 - Transforme a su forma polar:
 
+![image](https://user-images.githubusercontent.com/93899422/155137408-995c5fe0-4a2c-486a-9f75-6a063b47ca27.png)
+
 - Transforme a su forma rectangular:
 
+![image](https://user-images.githubusercontent.com/93899422/155137503-1b9e1bf8-5c99-4862-9480-430ab62df38b.png)
+
 - Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
+
+![image](https://user-images.githubusercontent.com/93899422/155138137-aae5ead8-e8ba-4065-866b-0325b5344fcb.png)
 
 - Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
 
