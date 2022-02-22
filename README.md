@@ -9,7 +9,8 @@
 # Objetivos Específicos
 
 # MARCO TEORICO
-
+![](https://github.com/jamora9/Laboratorio_9/blob/main/IMA/8.jpeg)
+![](https://github.com/jamora9/Laboratorio_9/blob/main/IMA/9.jpeg)
 # MATERIAL Y EQUIPO REQUERIDO
 
 |Cantidad|Elemento|
