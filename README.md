@@ -36,7 +36,7 @@
 
 ![image](https://user-images.githubusercontent.com/93900233/155153843-a9c9bb76-2383-4209-8511-146863e05f10.png)
 
-![image](https://user-images.githubusercontent.com/93900233/155153890-bd479fdd-9086-48c6-9695-ec318e305b38.png)
+![image](https://user-images.githubusercontent.com/93899422/155166179-abc5c2f9-b6b2-4f32-8f96-df4ab441110d.png)
 
 - Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
 
@@ -64,6 +64,7 @@
 ![image](https://user-images.githubusercontent.com/93899422/155165516-3ce4dcff-cc09-4a10-8954-c6ff49582ce2.png)
 ![image](https://user-images.githubusercontent.com/93899422/155165565-fb3823a2-cccb-488d-bd1c-3743f363fd9d.png)
 ![image](https://user-images.githubusercontent.com/93899422/155165753-6f1c551c-743b-4226-b934-b0b95e8a7c43.png)
+![image](https://user-images.githubusercontent.com/93899422/155166242-f80efce4-f9d2-48a8-b951-4d19e9a8571a.png)
 
 - Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
 
