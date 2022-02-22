@@ -78,6 +78,14 @@
 
 ![image](https://user-images.githubusercontent.com/93899422/155164193-21ebe5f4-2a44-4170-bea6-8e8bce43b88a.png)
 
+#ERROR 
+
+![image](https://user-images.githubusercontent.com/93899422/155168063-f4c6b332-733e-45a8-9f71-1f2928a1e002.png)
+
+![image](https://user-images.githubusercontent.com/93899422/155168103-f9a0291a-65fc-468b-8afb-71c07b9d121f.png)
+
+![image](https://user-images.githubusercontent.com/93899422/155168136-a4b95b36-3c6b-4540-a462-80e9666d4374.png)
+
 # VIDEO
 
 Mil disculpas Ing. al incio del video digo que es el video del Laboratorio 8 pero en realidad es el video del Laboratorio 9 me equivoque.
