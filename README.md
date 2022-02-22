@@ -34,5 +34,9 @@
 
 # CONCLUSIONES
 
+- Es necesario conocer que un fasor es la representación gráfica de un número complejo el cual se utiliza para representar una oscilación.
+- La suma de varios fasores puede representar la magnitud y fase de la oscilación resultante de la superposición de varias oscilaciones en un proceso de interferencia.
+- Indagando un poco mas acaerca de los fasores se puede encontar que estos se utilizan directamente en ingeniería eléctrica, óptica, ingeniería de telecomunicaciones y acústica, esto con el proposito de describir el movimiento de un oscilador.
+
 # BIBLIOGRAFÍA
   - Floyd, T. (2007). Principios de circuitos eléctricos. Octava edición. Mexico. Editorial Pearson
