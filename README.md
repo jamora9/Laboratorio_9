@@ -24,15 +24,31 @@
 
 - Transforme a su forma polar:
 
-![image](https://user-images.githubusercontent.com/93899422/155137408-995c5fe0-4a2c-486a-9f75-6a063b47ca27.png)
+![image](https://user-images.githubusercontent.com/93900233/155153652-6ea0b9a6-65b6-404b-a649-fc20ce7c30f7.png)
+
+![image](https://user-images.githubusercontent.com/93900233/155153694-d7f8e8d6-5ac3-4e30-95a4-1ec01ffb24c9.png)
+
+![image](https://user-images.githubusercontent.com/93900233/155153734-d658d383-e886-45ee-804f-6aa5bf946c40.png)
+
+![image](https://user-images.githubusercontent.com/93900233/155153767-8d97f987-4c40-4502-9612-a143845744c8.png)
 
 - Transforme a su forma rectangular:
 
-![image](https://user-images.githubusercontent.com/93899422/155137503-1b9e1bf8-5c99-4862-9480-430ab62df38b.png)
+![image](https://user-images.githubusercontent.com/93900233/155153843-a9c9bb76-2383-4209-8511-146863e05f10.png)
+
+![image](https://user-images.githubusercontent.com/93900233/155153890-bd479fdd-9086-48c6-9695-ec318e305b38.png)
 
 - Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
 
-![image](https://user-images.githubusercontent.com/93899422/155138137-aae5ead8-e8ba-4065-866b-0325b5344fcb.png)
+![image](https://user-images.githubusercontent.com/93900233/155153943-403fde7e-37f3-47ba-b764-9cc59ba9493e.png)
+
+![image](https://user-images.githubusercontent.com/93900233/155153969-1b268b48-a8cb-4b37-9c1f-c51dbf675e03.png)
+
+![image](https://user-images.githubusercontent.com/93900233/155154008-4b216b1e-d096-47c3-8791-afb40c23c31b.png)
+
+![image](https://user-images.githubusercontent.com/93900233/155154856-b2a2f9ac-96a4-4010-99e9-5f373c65a806.png)
+
+![image](https://user-images.githubusercontent.com/93900233/155154889-f90656a9-f9b5-4722-90d4-6a155ce49db9.png)
 
 - Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
 
