@@ -54,6 +54,10 @@
 
 # VIDEO
 
+Mil disculpas Ing. al incio del video digo que es el video del Laboratorio 8 pero en realidad es el video del Laboratorio 9 me equivoque.
+
+https://www.youtube.com/watch?v=yKIbAKMIUNY
+
 # CONCLUSIONES
 
 - Es necesario conocer que un fasor es la representación gráfica de un número complejo el cual se utiliza para representar una oscilación.
