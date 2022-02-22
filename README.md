@@ -6,8 +6,11 @@
 
 # Objetivos Generales
 
+- Comprender las operaciones básicas de los fasores acerca de las señales senoidales esto mediante la redacción de un informe academico para intepretar sus valores, para llegar plantear conclusiones que ayuden al endentimiento de la corriente alterna.
 # Objetivos Específicos
-
+- Explicar de manera abstracta una breve introducción de las operaciones de los fasores.
+- Analizar el comportamiento de  los fasores en su forma polar y rectangular respectivamente.
+- Entender los valores obtenidos para sus respectivas conclusiones. 
 # MARCO TEORICO
 ![](https://github.com/jamora9/Laboratorio_9/blob/main/IMA/8.jpeg)
 ![](https://github.com/jamora9/Laboratorio_9/blob/main/IMA/9.jpeg)
